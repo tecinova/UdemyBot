@@ -4,9 +4,9 @@
 
 import os
 
-token = os.environ.get('TOKEN')
-api_id = os.environ.get('API_ID')
-api_hash = os.environ.get('API_HASH')
+token = os.environ.get('5198316929:AAHOX1bvu6vjOXzJoih5sD0wNmEciHVkMdM')
+api_id = os.environ.get('15195863')
+api_hash = os.environ.get('4dad34223333dc397e0142223dac5c2b')
 
 START = """
 Hey, I'm an UdemyBot. ⚡
